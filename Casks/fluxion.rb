@@ -1,6 +1,6 @@
 cask "fluxion" do
-  version "1.0.4"
-  sha256 "a12f96b222906f98e93c517e49daaf2bc94afa5cd7c506b99590d14c577b46e9"
+  version "1.0.5"
+  sha256 "afda3b9a3be8605b06b23fd5a0a3ee65841898e3d4893985a96066319b16476c"
 
   url "https://github.com/superposed-labs/fluxion-bus/releases/download/v#{version}/Fluxion.dmg"
   name "Fluxion"
